@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#FF0000"            # Bright Red (buttons, highlights)
+backgroundColor = "#0D1117"         # Dark background (whole page)
+secondaryBackgroundColor = "#161B22" # Slightly lighter for cards/panels
+textColor = "#FFFFFF"               # White text
+font = "monospace"
